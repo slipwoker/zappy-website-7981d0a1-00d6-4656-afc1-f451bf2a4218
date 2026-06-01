@@ -1,0 +1,79 @@
+# XR-221 Spaceport Radio — Generative Engine Optimization Map
+
+> Paid to Play is a gaming-focused platform that rewards users for playing games, suggesting a play-to-earn or incentivized gaming model. The brand likely appeals to casual and competitive gamers who enjoy being compensated for their time and skill. The existing Wix site provides a starting point, and the new site should capture the excitement, fun, and earning potential central to the platform's value proposition.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Blast off into the ultimate play-to-earn gaming universe. XR-221 Spaceport Radio rewards your skills with real incentives. Join the gaming &amp; entertainment revolution now!
+
+### Features
+https://example.com/features
+Discover the cutting-edge features fueling XR-221&#39;s gaming rewards engine. From skill-based challenges to mohegan gaming &amp; entertainment-level thrills, your next big win starts here.
+
+### About
+https://example.com/about
+Meet the visionaries who built a gaming &amp; entertainment platform where every session pays off. XR-221 Spaceport Radio is on a mission to make every gamer&#39;s time worth real rewards.
+
+### Contact
+https://example.com/contact
+Got questions about gaming rewards or your earnings? Reach out to XR-221 Spaceport Radio&#39;s crew today and get the answers that launch your gaming &amp; entertainment journey into orbit.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About XR-221 Spaceport Radio
+Paid to Play is a gaming-focused platform that rewards users for playing games, suggesting a play-to-earn or incentivized gaming model. The brand likely appeals to casual and competitive gamers who enjoy being compensated for their time and skill. The existing Wix site provides a starting point, and the new site should capture the excitement, fun, and earning potential central to the platform's value proposition.
+
+## Target Audience
+- gamers who want to earn rewards or money by playing games
+- Reward-Seeking Gamers
+- Competitive Gamers
+- Part-Time Streamers
+
+## Industry
+Gaming & Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
